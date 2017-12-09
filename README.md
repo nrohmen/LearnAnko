@@ -1,2 +1,2 @@
 # LearnAnko
-Sample project for learning about Anko
+Sample project for learn Anko
